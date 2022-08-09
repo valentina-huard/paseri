@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+h1, h2, h3 {
+	font-family: moon;
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	margin: 0px;
+}
+ a {
+ 	text-decoration: none
+ }
+
+ h2 {
+ 	background-color: #1B1464;
+ 	color: white;
+ 	text-align: center;
+ 	width: 150px
+ }
